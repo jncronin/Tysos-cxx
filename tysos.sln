@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tysos", "tysos.vcproj", "{8652FE08-6DB4-4CAB-9AB9-8D77465CB2FC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tysila", "..\tycc\tycc.vcproj", "{07415C57-E612-4BD6-9F6D-3A9F33ACD96B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8652FE08-6DB4-4CAB-9AB9-8D77465CB2FC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8652FE08-6DB4-4CAB-9AB9-8D77465CB2FC}.Debug|Win32.Build.0 = Debug|Win32
+		{8652FE08-6DB4-4CAB-9AB9-8D77465CB2FC}.Release|Win32.ActiveCfg = Release|Win32
+		{8652FE08-6DB4-4CAB-9AB9-8D77465CB2FC}.Release|Win32.Build.0 = Release|Win32
+		{07415C57-E612-4BD6-9F6D-3A9F33ACD96B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{07415C57-E612-4BD6-9F6D-3A9F33ACD96B}.Debug|Win32.Build.0 = Debug|Win32
+		{07415C57-E612-4BD6-9F6D-3A9F33ACD96B}.Release|Win32.ActiveCfg = Release|Win32
+		{07415C57-E612-4BD6-9F6D-3A9F33ACD96B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
